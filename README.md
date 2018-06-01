@@ -1,6 +1,10 @@
-# LazyloadApp
+# LazyLoadApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.7.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.7.<br>
+The idea is to test the lazy loading of modules in Angular 6.
+
+##### API Endpoint
+I've coded a simple Login endpoint in PHP to provide the HTTP response code 200 or 500 for testing. You can find the PHP file inside "endpoint" folder.
 
 ## Development server
 
